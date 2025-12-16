@@ -1,6 +1,8 @@
 ---
 layout: default
+title: ToyStore
 ---
+
 
 <div class="container">
   <h2 class="py-5">Tüm Oyuncaklar</h2>
